@@ -11,9 +11,9 @@
     "check": "astro check"
   },
   "dependencies": {
-    "astro": "^4.2.8"
+    "astro": "^4.4.0"
   },
   "devDependencies": {
-    "sass": "^1.69.5"
+    "sass": "^1.71.0"
   }
 }
